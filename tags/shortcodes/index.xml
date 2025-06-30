@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shortcodes on Продажа домена www.alex-gordon.ru</title><link>https://www.alex-gordon.ru/tags/shortcodes/</link><description>Recent content in Shortcodes on Продажа домена www.alex-gordon.ru</description><generator>Hugo</generator><language>ru-ru</language><lastBuildDate>Wed, 04 Mar 2020 16:29:41 +0800</lastBuildDate><atom:link href="https://www.alex-gordon.ru/tags/shortcodes/index.xml" rel="self" type="application/rss+xml"/><item><title>Theme Documentation - Built-in Shortcodes</title><link>https://www.alex-gordon.ru/posts/theme-documentation-built-in-shortcodes/</link><pubDate>Wed, 04 Mar 2020 16:29:41 +0800</pubDate><guid>https://www.alex-gordon.ru/posts/theme-documentation-built-in-shortcodes/</guid><description>&lt;p>&lt;strong>Hugo&lt;/strong> provides multiple built-in shortcodes for author convenience and to keep your markdown content clean.&lt;/p></description></item><item><title>Theme Documentation - Extended Shortcodes</title><link>https://www.alex-gordon.ru/posts/theme-documentation-extended-shortcodes/</link><pubDate>Tue, 03 Mar 2020 16:29:41 +0800</pubDate><guid>https://www.alex-gordon.ru/posts/theme-documentation-extended-shortcodes/</guid><description>&lt;p>&lt;strong>KeepIt&lt;/strong> theme provides multiple shortcodes on top of built-in ones in Hugo.&lt;/p></description></item><item><title>Theme Documentation - mermaid Shortcode</title><link>https://www.alex-gordon.ru/posts/theme-documentation-mermaid-shortcode/</link><pubDate>Tue, 03 Mar 2020 15:29:41 +0800</pubDate><guid>https://www.alex-gordon.ru/posts/theme-documentation-mermaid-shortcode/</guid><description>&lt;a href="https://github.com/Fastbyte01/KeepIt/releases/tag/v0.2.11" rel="noopener noreferrer" target="_blank">&lt;img
+ class="lazyload version"
+ src="https://www.alex-gordon.ru/svg/loading.min.svg"
+ data-src="https://www.alex-gordon.ru/svg/version/0.2.11-changed.min.svg"
+ data-srcset="https://www.alex-gordon.ru/svg/version/0.2.11-changed.min.svg, https://www.alex-gordon.ru/svg/version/0.2.11-changed.min.svg 1.5x, https://www.alex-gordon.ru/svg/version/0.2.11-changed.min.svg 2x"
+ data-sizes="auto"
+ alt="KeepIt CHANGED | 0.2.11"
+ title="KeepIt CHANGED | 0.2.11" />&lt;/a>
+&lt;p>The &lt;code>mermaid&lt;/code> shortcode supports diagrams in Hugo with &lt;a href="https://mermaidjs.github.io/" target="_blank" rel="noopener noreferrer">Mermaid&lt;/a>
+ library.&lt;/p></description></item><item><title>Theme Documentation - echarts Shortcode</title><link>https://www.alex-gordon.ru/posts/theme-documentation-echarts-shortcode/</link><pubDate>Tue, 03 Mar 2020 14:29:41 +0800</pubDate><guid>https://www.alex-gordon.ru/posts/theme-documentation-echarts-shortcode/</guid><description>&lt;p>The &lt;code>echarts&lt;/code> shortcode supports data visualization in Hugo with &lt;a href="https://echarts.apache.org/" target="_blank" rel="noopener noreferrer">ECharts&lt;/a>
+ library.&lt;/p></description></item><item><title>Theme Documentation - mapbox Shortcode</title><link>https://www.alex-gordon.ru/posts/theme-documentation-mapbox-shortcode/</link><pubDate>Tue, 03 Mar 2020 13:29:41 +0800</pubDate><guid>https://www.alex-gordon.ru/posts/theme-documentation-mapbox-shortcode/</guid><description>&lt;a href="https://github.com/Fastbyte01/KeepIt/releases/tag/v0.2.0" rel="noopener noreferrer" target="_blank">&lt;img
+ class="lazyload version"
+ src="https://www.alex-gordon.ru/svg/loading.min.svg"
+ data-src="https://www.alex-gordon.ru/svg/version/0.2.0-new.min.svg"
+ data-srcset="https://www.alex-gordon.ru/svg/version/0.2.0-new.min.svg, https://www.alex-gordon.ru/svg/version/0.2.0-new.min.svg 1.5x, https://www.alex-gordon.ru/svg/version/0.2.0-new.min.svg 2x"
+ data-sizes="auto"
+ alt="KeepIt NEW | 0.2.0"
+ title="KeepIt NEW | 0.2.0" />&lt;/a>
+&lt;p>The &lt;code>mapbox&lt;/code> shortcode supports interactive maps in Hugo with &lt;a href="https://docs.mapbox.com/mapbox-gl-js" target="_blank" rel="noopener noreferrer">Mapbox GL JS&lt;/a>
+ library.&lt;/p></description></item><item><title>Theme Documentation - music Shortcode</title><link>https://www.alex-gordon.ru/posts/theme-documentation-music-shortcode/</link><pubDate>Tue, 03 Mar 2020 12:29:41 +0800</pubDate><guid>https://www.alex-gordon.ru/posts/theme-documentation-music-shortcode/</guid><description>&lt;p>The &lt;code>music&lt;/code> shortcode embeds a responsive music player based on &lt;a href="https://github.com/MoePlayer/APlayer" target="_blank" rel="noopener noreferrer">APlayer&lt;/a>
+ and &lt;a href="https://github.com/metowolf/MetingJS" target="_blank" rel="noopener noreferrer">MetingJS&lt;/a>
+.&lt;/p></description></item><item><title>Theme Documentation - bilibili Shortcode</title><link>https://www.alex-gordon.ru/posts/theme-documentation-bilibili-shortcode/</link><pubDate>Tue, 03 Mar 2020 11:29:41 +0800</pubDate><guid>https://www.alex-gordon.ru/posts/theme-documentation-bilibili-shortcode/</guid><description>&lt;a href="https://github.com/Fastbyte01/KeepIt/releases/tag/v0.2.0" rel="noopener noreferrer" target="_blank">&lt;img
+ class="lazyload version"
+ src="https://www.alex-gordon.ru/svg/loading.min.svg"
+ data-src="https://www.alex-gordon.ru/svg/version/0.2.0-changed.min.svg"
+ data-srcset="https://www.alex-gordon.ru/svg/version/0.2.0-changed.min.svg, https://www.alex-gordon.ru/svg/version/0.2.0-changed.min.svg 1.5x, https://www.alex-gordon.ru/svg/version/0.2.0-changed.min.svg 2x"
+ data-sizes="auto"
+ alt="KeepIt CHANGED | 0.2.0"
+ title="KeepIt CHANGED | 0.2.0" />&lt;/a>
+&lt;p>The &lt;code>bilibili&lt;/code> shortcode embeds a responsive video player for bilibili videos.&lt;/p></description></item><item><title>Theme Documentation - typeit Shortcode</title><link>https://www.alex-gordon.ru/posts/theme-documentation-typeit-shortcode/</link><pubDate>Tue, 03 Mar 2020 10:29:41 +0800</pubDate><guid>https://www.alex-gordon.ru/posts/theme-documentation-typeit-shortcode/</guid><description>&lt;p>The &lt;code>typeit&lt;/code> shortcode provides typing animation based on &lt;a href="https://typeitjs.com/" target="_blank" rel="noopener noreferrer">TypeIt&lt;/a>
+ library.&lt;/p></description></item></channel></rss>
