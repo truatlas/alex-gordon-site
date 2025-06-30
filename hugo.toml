@@ -1,0 +1,38 @@
+baseURL = "https://www.alex-gordon.ru/"
+languageCode = "ru-ru"
+title = "Продажа домена www.alex-gordon.ru"
+theme = "KeepIt"
+
+[menu]
+  [[menu.main]]
+    weight = 1
+    identifier = "posts"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Купить домен"
+    url = "https://www.nic.ru/shop/lot/alex-gordon.ru/"
+    # title will be shown when you hover on this menu link
+    title = ""
+
+[params]
+  author = { name = "Alex Gordon", link = "https://www.alex-gordon.ru" }
+  contact_email = 'r@mariel.ru'
+  contact_phone = "+7 999 123 45 67"
+  defaultTheme = "auto"           # Подстраивается под светлую/тёмную тему браузера пользователя
+  title = "Продажа домена www.alex-gordon.ru"
+  description = "Уникальный короткий домен для вашего проекта — легко запомнить и быстро стартовать"
+  [params.header]
+    [params.header.title]
+      name = "alex-gordon.ru"
+  [params.home]
+    rss = 0
+    [params.home.profile]
+      social = false 
+    [params.home.posts]
+      enable = false
+
+  [params.social]
+    enable = false  # отключаем показ постов, если блога нет
+    paginate = 6
