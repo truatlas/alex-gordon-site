@@ -1,6 +1,9 @@
 backend:
-  name: git-gateway
-  branch: main # Branch to update (optional; defaults to master)
+  name: github
+  repo: "truatlas/alex-gordon-site"
+  branch: main
+  auth_type: oauth
+  app_id: "Ov23liWBUsnBlY7D8Itu"
 media_folder: static/img
 public_folder: /img
 collections:
