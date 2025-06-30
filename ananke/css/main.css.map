@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/runner/work/alex-gordon-site/alex-gordon-site",
+	"sourceRoot": "/home/egor/hugo-sites/alex-gordon",
 	"sources": [
 		"ananke/css/main.css"
 	],

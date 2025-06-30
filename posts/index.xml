@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Game site for Alex Gordon</title><link>https://www.alex-gordon.ru/posts/</link><description>Recent content in Posts on Game site for Alex Gordon</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 30 Jun 2025 17:33:03 +0000</lastBuildDate><atom:link href="https://www.alex-gordon.ru/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome-2</title><link>https://www.alex-gordon.ru/posts/welcome/</link><pubDate>Mon, 30 Jun 2025 17:33:03 +0000</pubDate><guid>https://www.alex-gordon.ru/posts/welcome/</guid><description/></item><item><title>This is First Post of Alex Gordon</title><link>https://www.alex-gordon.ru/posts/my-first-post/</link><pubDate>Mon, 30 Jun 2025 17:08:23 +0000</pubDate><guid>https://www.alex-gordon.ru/posts/my-first-post/</guid><description/></item><item><title>Hello</title><link>https://www.alex-gordon.ru/posts/hello/</link><pubDate>Mon, 30 Jun 2025 00:00:00 +0300</pubDate><guid>https://www.alex-gordon.ru/posts/hello/</guid><description>&lt;p>Добро пожаловать на мой сайт!&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Game site for Alex Gordon</title>
+    <link>http://192.168.14.105:1313/posts/</link>
+    <description>Recent content in Posts on Game site for Alex Gordon</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Jun 2025 17:08:23 +0000</lastBuildDate>
+    <atom:link href="http://192.168.14.105:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is First Post of Alex Gordon</title>
+      <link>http://192.168.14.105:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 30 Jun 2025 17:08:23 +0000</pubDate>
+      <guid>http://192.168.14.105:1313/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
